@@ -1,0 +1,1 @@
+NeoGraphify processes unstructured documents (e.g., PDFs) using LLM pipelines via LangChain, extracts entities and relationships, and stores them in a Neo4j knowledge graph. It includes a simple frontend to upload documents and visualize the generated graph via the Neo4j Browser.
