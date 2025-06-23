@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+neo4j
+langchain
+PyMuPDF
+openai
+python-dotenv
+unstructured
+pymupdf
